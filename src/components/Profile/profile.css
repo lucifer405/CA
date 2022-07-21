@@ -1,0 +1,10 @@
+
+.background{
+    background-image:linear-gradient(white,rgb(197, 227, 226))
+}
+.font{
+    font-family: 'Times New Roman', Times, serif;
+}
+.edit{
+    justify-content: center;
+}
